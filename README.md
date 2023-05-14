@@ -1,1 +1,1 @@
-# vsconsoleSimpleChatApplication  by Çağrı Şahin teacher
+# vsConsoleSimpleChatApplication  by Çağrı Şahin teacher
